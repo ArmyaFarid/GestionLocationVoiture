@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648390630 source:c:\users\armya\onedrive\documents\atelier programmation\projetsemestre2_gestiondelocation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+
